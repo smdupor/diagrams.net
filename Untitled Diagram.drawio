@@ -1,14 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T03:06:18.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Cb3nufoIC21UIpwj8mO8" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T03:37:27.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SH4rZjZ5rGW2HJCoLq--" version="17.4.6" type="github">
   <diagram id="7xAdlBnsVX-YvYmDyVDX" name="Page-1">
-    <mxGraphModel dx="906" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="761" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6Glt0ARM_zjXCyxz7jK4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-1" target="6Glt0ARM_zjXCyxz7jK4-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="109" width="160" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="6Glt0ARM_zjXCyxz7jK4-1" value="A-Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.833;exitY=1.03;exitDx=0;exitDy=0;endArrow=classic;endFill=1;exitPerimeter=0;entryX=0.828;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-1" target="6Glt0ARM_zjXCyxz7jK4-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-1" target="6Glt0ARM_zjXCyxz7jK4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="70" />
+              <mxPoint x="550" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-28" value="Slipstream State Control" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="6Glt0ARM_zjXCyxz7jK4-24">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.828;exitY=0.985;exitDx=0;exitDy=0;entryX=0.163;entryY=0.003;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-1" target="6Glt0ARM_zjXCyxz7jK4-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="130" />
+              <mxPoint x="370" y="130" />
+              <mxPoint x="370" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.831;exitY=0.997;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitPerimeter=0;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-1" target="6Glt0ARM_zjXCyxz7jK4-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="130" />
+              <mxPoint x="410" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-1" value="A-Stream" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Glt0ARM_zjXCyxz7jK4-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="140" width="120" height="30" as="geometry" />
@@ -102,11 +140,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Glt0ARM_zjXCyxz7jK4-21" value="R-Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-21" value="R-Stream" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Glt0ARM_zjXCyxz7jK4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-17" target="6Glt0ARM_zjXCyxz7jK4-21">
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-30" value="Delay Buffer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="103" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="6Glt0ARM_zjXCyxz7jK4-17" target="6Glt0ARM_zjXCyxz7jK4-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Glt0ARM_zjXCyxz7jK4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryPerimeter=0;" edge="1" parent="1" target="6Glt0ARM_zjXCyxz7jK4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
